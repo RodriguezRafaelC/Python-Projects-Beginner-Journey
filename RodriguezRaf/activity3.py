@@ -1,0 +1,1 @@
+print("To my dearest \"Allie\",\n \t\"I coud'nt sleep last night because\n i know that its over between us.\n I am not bitter anymore\"")
